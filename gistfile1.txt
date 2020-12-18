@@ -1,0 +1,8 @@
+<html lang="ja">
+  <head>
+    <title>hello</title>
+  </head>
+  <body>
+  Helle, world.
+  </body>
+</html>
